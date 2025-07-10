@@ -1,0 +1,36 @@
+# Ignore virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore model and preprocessor files
+*.pkl
+*.joblib
+
+# API keys and env secrets
+.env
+.env.*
+
+# Ignore macOS hidden files
+.DS_Store
+
+# Ignore IDE settings
+.vscode/
+.idea/
+
+# Streamlit temporary/cache files
+.streamlit/config.toml  # optional, keep if needed
+*.log
+
+# Jupyter or notebook leftovers (if used)
+.ipynb_checkpoints/
+
+# Logs and debug
+logs/
+*.log
