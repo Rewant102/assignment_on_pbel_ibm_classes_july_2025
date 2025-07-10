@@ -1,36 +1,20 @@
-# Ignore virtual environments
-venv/
-.venv/
-env/
-ENV/
-
-# Python cache
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
-*$py.class
+*.so
 
-# Ignore model and preprocessor files
-*.pkl
-*.joblib
+# Virtual environment
+venv/
 
-# API keys and env secrets
+# Environment variables
 .env
-.env.*
 
-# Ignore macOS hidden files
+# System files
 .DS_Store
 
-# Ignore IDE settings
+# Don't ignore pkl files (remove *.pkl if it exists in older .gitignore)
+# You are including model.pkl etc.
+
+# VSCode or PyCharm settings (optional)
 .vscode/
 .idea/
-
-# Streamlit temporary/cache files
-.streamlit/config.toml  # optional, keep if needed
-*.log
-
-# Jupyter or notebook leftovers (if used)
-.ipynb_checkpoints/
-
-# Logs and debug
-logs/
-*.log
