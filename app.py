@@ -9,7 +9,10 @@ import os
 
 # Load environment variables
 load_dotenv()
-API_KEY = os.getenv("WATSON_API_KEY")
+API_KEY = st.secrets["WATSON_API_KEY"]
+
+
+
 
 # Load local model and preprocessing tools
 @st.cache_resource
