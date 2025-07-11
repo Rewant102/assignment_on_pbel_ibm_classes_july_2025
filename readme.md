@@ -119,7 +119,7 @@ Project under: PBEL IBM AI Cloud Training – July 2025
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<this is the part form watson.ai studio >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-![svg image](data:image/svg+xml,%3Csvg%20version%3D%221.1%22%20id%3D%22Layer_1%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20x%3D%220px%22%20y%3D%220px%22%0A%09%20viewBox%3D%220%200%201796%20100%22%20style%3D%22enable-background%3Anew%200%200%201796%20100%3B%22%20xml%3Aspace%3D%22preserve%22%3E%0A%3Cstyle%20type%3D%22text%2Fcss%22%3E%0A%09.st0%7Bfill-rule%3Aevenodd%3Bclip-rule%3Aevenodd%3Bfill%3Aurl%28%23SVGID_1_%29%3B%7D%0A%09.st1%7Bclip-path%3Aurl%28%23SVGID_00000178915391776407424850000007341318225791887491_%29%3B%7D%0A%09.st2%7Bfill%3Aurl%28%23SVGID_00000072959074018647863330000000566853838299270530_%29%3B%7D%0A%09.st3%7Bclip-path%3Aurl%28%23SVGID_00000088832798360344817880000014420072439252153242_%29%3B%7D%0A%09.st4%7Bfill%3Aurl%28%23SVGID_00000115487599576311285860000000799671087605023907_%29%3B%7D%0A%09.st5%7Bfill%3Anone%3Bstroke%3A%23FFFFFF%3Bstroke-width%3A2%3Bstroke-miterlimit%3A10%3B%7D%0A%09.st6%7Bfill%3Anone%3Bstroke%3A%23FFFFFF%3Bstroke-width%3A1.5%3Bstroke-miterlimit%3A10%3B%7D%0A%09.st7%7Bopacity%3A0.2%3Bfill%3Aurl%28%23SVGID_00000045580851177316760270000016912490179557547437_%29%3Benable-background%3Anew%20%20%20%20%3B%7D%0A%09.st8%7Bfill%3A%23FFFFFF%3B%7D%0A%09.st9%7Bfont-family%3A%27IBMPlexSans-Medium%27%3B%7D%0A%09.st10%7Bfont-size%3A32px%3B%7D%0A%09.st11%7Bfont-family%3A%27IBMPlexSans%27%3B%7D%0A%09.st12%7Bfill%3A%233D3D3D%3B%7D%0A%09.st13%7Bfill%3A%23939598%3B%7D%0A%3C%2Fstyle%3E%0A%3Crect%20width%3D%221796%22%20height%3D%22100%22%2F%3E%0A%3ClinearGradient%20id%3D%22SVGID_1_%22%20gradientUnits%3D%22userSpaceOnUse%22%20x1%3D%2242.8625%22%20y1%3D%221027.998%22%20x2%3D%2279.71%22%20y2%3D%221027.998%22%20gradientTransform%3D%22matrix%281%200%200%201%200%20-978%29%22%3E%0A%09%3Cstop%20%20offset%3D%220%22%20style%3D%22stop-color%3A%23AB74FF%22%2F%3E%0A%09%3Cstop%20%20offset%3D%220.21%22%20style%3D%22stop-color%3A%23866AFF%22%2F%3E%0A%09%3Cstop%20%20offset%3D%220.75%22%20style%3D%22stop-color%3A%232A4FFF%22%2F%3E%0A%09%3Cstop%20%20offset%3D%221%22%20style%3D%22stop-color%3A%230645FF%22%2F%3E%0A%3C%2FlinearGradient%3E%0A%3Cpath%20class%3D%22st0%22%20d%3D%22M52.4%2C45.9c0-2.3%2C1.8-4.1%2C4.1-4.1s4.1%2C1.8%2C4.1%2C4.1S58.8%2C50%2C56.5%2C50l0%2C0c-2.2%2C0.1-4-1.7-4.1-3.9%0A%09C52.4%2C46%2C52.4%2C46%2C52.4%2C45.9z%20M77.5%2C52.5c-0.8-1.1-1.4-2.3-1.9-3.5c1.2-4.5%2C0.7-8.6-1.8-11.9c-2.9-3.8-8.2-6-14.5-6.1%0A%09c-4.5-0.1-8.8%2C1.7-12%2C4.8c-3%2C3-4.6%2C7.2-4.5%2C11.5c-0.1%2C2.9%2C0.9%2C5.8%2C2.7%2C8.1c0.8%2C0.8%2C1.3%2C1.9%2C1.4%2C3v4.5c-0.8%2C0.5-1.4%2C1.3-1.4%2C2.3%0A%09c0.2%2C1.5%2C1.5%2C2.6%2C3%2C2.4c1.2-0.2%2C2.2-1.1%2C2.4-2.4c0-1-0.5-1.9-1.4-2.3v-4.5c0-2-1-3.3-1.9-4.6c-1.5-1.9-2.2-4.2-2.1-6.5%0A%09c0-3.5%2C1.4-6.9%2C3.8-9.4c2.7-2.7%2C6.3-4.1%2C10-4.1c5.5%2C0%2C9.8%2C1.9%2C12.1%2C5c2%2C2.8%2C2.5%2C6.3%2C1.4%2C9.6c-0.4%2C1.2%2C0.6%2C2.7%2C2.3%2C5.6%0A%09c0.6%2C0.9%2C1.2%2C1.9%2C1.6%2C2.9c-0.9%2C0.7-2%2C1.2-3.1%2C1.5c-0.5%2C0.4-0.7%2C0.9-0.8%2C1.5V65c0%2C0.4-0.1%2C0.8-0.4%2C1.1c-0.3%2C0.2-0.7%2C0.3-1.1%2C0.3%0A%09c-1.6-0.3-3.4-0.7-5.2-1.1v-4.8c0.8-0.5%2C1.4-1.4%2C1.4-2.3c0-1.5-1.2-2.7-2.7-2.7s-2.7%2C1.2-2.7%2C2.7c0%2C1%2C0.5%2C1.9%2C1.4%2C2.3v4.1%0A%09c-0.4-0.1-0.7-0.1-1.1-0.3c-4.5-1.1-4.5-2.6-4.5-3.4v-8.3c3.2-0.7%2C5.4-3.5%2C5.5-6.7c-0.1-3.8-3.3-6.7-7.1-6.6c-3.6%2C0.1-6.4%2C3-6.6%2C6.6%0A%09c0%2C3.2%2C2.3%2C6%2C5.5%2C6.7v8.3c0%2C2%2C0.7%2C4.6%2C6.6%2C6.1c3%2C0.8%2C6%2C1.5%2C9.1%2C1.9c0.3%2C0%2C0.6%2C0.1%2C0.8%2C0.1c1%2C0%2C1.9-0.3%2C2.6-1%0A%09c0.9-0.8%2C1.4-1.9%2C1.4-3.1v-4.5c2-0.8%2C4.1-2%2C4.1-3.7C79.7%2C55.9%2C79%2C54.6%2C77.5%2C52.5z%22%2F%3E%0A%3Cg%3E%0A%09%3Cg%3E%0A%09%09%3Cdefs%3E%0A%09%09%09%3Cpath%20id%3D%22SVGID_00000103988023533243019020000015870306665051389114_%22%20d%3D%22M52.4%2C45.9c0-2.3%2C1.8-4.1%2C4.1-4.1s4.1%2C1.8%2C4.1%2C4.1%0A%09%09%09%09S58.8%2C50%2C56.5%2C50l0%2C0c-2.2%2C0.1-4-1.7-4.1-3.9C52.4%2C46%2C52.4%2C46%2C52.4%2C45.9z%20M77.5%2C52.5c-0.8-1.1-1.4-2.3-1.9-3.5%0A%09%09%09%09c1.2-4.5%2C0.7-8.6-1.8-11.9c-2.9-3.8-8.2-6-14.5-6.1c-4.5-0.1-8.8%2C1.7-12%2C4.8c-3%2C3-4.6%2C7.2-4.5%2C11.5c-0.1%2C2.9%2C0.9%2C5.8%2C2.7%2C8.1%0A%09%09%09%09c0.8%2C0.8%2C1.3%2C1.9%2C1.4%2C3v4.5c-0.8%2C0.5-1.4%2C1.3-1.4%2C2.3c0.2%2C1.5%2C1.5%2C2.6%2C3%2C2.4c1.2-0.2%2C2.2-1.1%2C2.4-2.4c0-1-0.5-1.9-1.4-2.3v-4.5%0A%09%09%09%09c0-2-1-3.3-1.9-4.6c-1.5-1.9-2.2-4.2-2.1-6.5c0-3.5%2C1.4-6.9%2C3.8-9.4c2.7-2.7%2C6.3-4.1%2C10-4.1c5.5%2C0%2C9.8%2C1.9%2C12.1%2C5%0A%09%09%09%09c2%2C2.8%2C2.5%2C6.3%2C1.4%2C9.6c-0.4%2C1.2%2C0.6%2C2.7%2C2.3%2C5.6c0.6%2C0.9%2C1.2%2C1.9%2C1.6%2C2.9c-0.9%2C0.7-2%2C1.2-3.1%2C1.5c-0.5%2C0.4-0.7%2C0.9-0.8%2C1.5V65%0A%09%09%09%09c0%2C0.4-0.1%2C0.8-0.4%2C1.1c-0.3%2C0.2-0.7%2C0.3-1.1%2C0.3c-1.6-0.3-3.4-0.7-5.2-1.1v-4.8c0.8-0.5%2C1.4-1.4%2C1.4-2.3c0-1.5-1.2-2.7-2.7-2.7%0A%09%09%09%09s-2.7%2C1.2-2.7%2C2.7c0%2C1%2C0.5%2C1.9%2C1.4%2C2.3v4.1c-0.4-0.1-0.7-0.1-1.1-0.3c-4.5-1.1-4.5-2.6-4.5-3.4v-8.3c3.2-0.7%2C5.4-3.5%2C5.5-6.7%0A%09%09%09%09c-0.1-3.8-3.3-6.7-7.1-6.6c-3.6%2C0.1-6.4%2C3-6.6%2C6.6c0%2C3.2%2C2.3%2C6%2C5.5%2C6.7v8.3c0%2C2%2C0.7%2C4.6%2C6.6%2C6.1c3%2C0.8%2C6%2C1.5%2C9.1%2C1.9%0A%09%09%09%09c0.3%2C0%2C0.6%2C0.1%2C0.8%2C0.1c1%2C0%2C1.9-0.3%2C2.6-1c0.9-0.8%2C1.4-1.9%2C1.4-3.1v-4.5c2-0.8%2C4.1-2%2C4.1-3.7C79.7%2C55.9%2C79%2C54.6%2C77.5%2C52.5z%22%2F%3E%0A%09%09%3C%2Fdefs%3E%0A%09%09%3CclipPath%20id%3D%22SVGID_00000163075222211376611200000003176213376109670824_%22%3E%0A%09%09%09%3Cuse%20xlink%3Ahref%3D%22%23SVGID_00000103988023533243019020000015870306665051389114_%22%20%20style%3D%22overflow%3Avisible%3B%22%2F%3E%0A%09%09%3C%2FclipPath%3E%0A%09%09%3Cg%20style%3D%22clip-path%3Aurl%28%23SVGID_00000163075222211376611200000003176213376109670824_%29%3B%22%3E%0A%09%09%09%0A%09%09%09%09%3ClinearGradient%20id%3D%22SVGID_00000111891139058751766020000017047336746994893708_%22%20gradientUnits%3D%22userSpaceOnUse%22%20x1%3D%22-1341.4%22%20y1%3D%22805.5%22%20x2%3D%22449.7%22%20y2%3D%22805.5%22%20gradientTransform%3D%22matrix%281%200%200%201%200%20-978%29%22%3E%0A%09%09%09%09%3Cstop%20%20offset%3D%220%22%20style%3D%22stop-color%3A%23AB74FF%22%2F%3E%0A%09%09%09%09%3Cstop%20%20offset%3D%220.21%22%20style%3D%22stop-color%3A%23866AFF%22%2F%3E%0A%09%09%09%09%3Cstop%20%20offset%3D%220.75%22%20style%3D%22stop-color%3A%232A4FFF%22%2F%3E%0A%09%09%09%09%3Cstop%20%20offset%3D%221%22%20style%3D%22stop-color%3A%230645FF%22%2F%3E%0A%09%09%09%3C%2FlinearGradient%3E%0A%09%09%09%0A%09%09%09%09%3Crect%20x%3D%22-1341.4%22%20y%3D%22-876.9%22%20style%3D%22fill%3Aurl%28%23SVGID_00000111891139058751766020000017047336746994893708_%29%3B%22%20width%3D%221791.1%22%20height%3D%221408.8%22%2F%3E%0A%09%09%09%3Cg%3E%0A%09%09%09%09%3Cg%3E%0A%09%09%09%09%09%3Cdefs%3E%0A%09%09%09%09%09%09%0A%09%09%09%09%09%09%09%3Crect%20id%3D%22SVGID_00000103231572956238640970000011034158940870041505_%22%20x%3D%22-1341.4%22%20y%3D%22-876.9%22%20width%3D%221791.1%22%20height%3D%221408.8%22%2F%3E%0A%09%09%09%09%09%3C%2Fdefs%3E%0A%09%09%09%09%09%3CclipPath%20id%3D%22SVGID_00000076562667476129641040000017034118924293963927_%22%3E%0A%09%09%09%09%09%09%3Cuse%20xlink%3Ahref%3D%22%23SVGID_00000103231572956238640970000011034158940870041505_%22%20%20style%3D%22overflow%3Avisible%3B%22%2F%3E%0A%09%09%09%09%09%3C%2FclipPath%3E%0A%09%09%09%09%09%3Cg%20style%3D%22clip-path%3Aurl%28%23SVGID_00000076562667476129641040000017034118924293963927_%29%3B%22%3E%0A%09%09%09%09%09%09%0A%09%09%09%09%09%09%09%3ClinearGradient%20id%3D%22SVGID_00000002353593499038243250000000421055474946009746_%22%20gradientUnits%3D%22userSpaceOnUse%22%20x1%3D%2236%22%20y1%3D%221028.05%22%20x2%3D%2286.5%22%20y2%3D%221028.05%22%20gradientTransform%3D%22matrix%281%200%200%201%200%20-978%29%22%3E%0A%09%09%09%09%09%09%09%3Cstop%20%20offset%3D%220%22%20style%3D%22stop-color%3A%23AB74FF%22%2F%3E%0A%09%09%09%09%09%09%09%3Cstop%20%20offset%3D%220.21%22%20style%3D%22stop-color%3A%23866AFF%22%2F%3E%0A%09%09%09%09%09%09%09%3Cstop%20%20offset%3D%220.75%22%20style%3D%22stop-color%3A%232A4FFF%22%2F%3E%0A%09%09%09%09%09%09%09%3Cstop%20%20offset%3D%221%22%20style%3D%22stop-color%3A%230645FF%22%2F%3E%0A%09%09%09%09%09%09%3C%2FlinearGradient%3E%0A%09%09%09%09%09%09%0A%09%09%09%09%09%09%09%3Crect%20x%3D%2236%22%20y%3D%2224.1%22%20style%3D%22fill%3Aurl%28%23SVGID_00000002353593499038243250000000421055474946009746_%29%3B%22%20width%3D%2250.5%22%20height%3D%2251.9%22%2F%3E%0A%09%09%09%09%09%3C%2Fg%3E%0A%09%09%09%09%3C%2Fg%3E%0A%09%09%09%3C%2Fg%3E%0A%09%09%3C%2Fg%3E%0A%09%3C%2Fg%3E%0A%3C%2Fg%3E%0A%3Ccircle%20class%3D%22st5%22%20cx%3D%2256.5%22%20cy%3D%2245.9%22%20r%3D%225.4%22%2F%3E%0A%3Ccircle%20class%3D%22st6%22%20cx%3D%2248.3%22%20cy%3D%2265%22%20r%3D%221.6%22%2F%3E%0A%3Ccircle%20class%3D%22st6%22%20cx%3D%2264.8%22%20cy%3D%2258.2%22%20r%3D%221.6%22%2F%3E%0A%3ClinearGradient%20id%3D%22SVGID_00000124860236446931535290000008328801365185342639_%22%20gradientUnits%3D%22userSpaceOnUse%22%20x1%3D%22773.8%22%20y1%3D%221028%22%20x2%3D%221796%22%20y2%3D%221028%22%20gradientTransform%3D%22matrix%281%200%200%201%200%20-978%29%22%3E%0A%09%3Cstop%20%20offset%3D%220%22%20style%3D%22stop-color%3A%23161616%22%2F%3E%0A%09%3Cstop%20%20offset%3D%220.52%22%20style%3D%22stop-color%3A%23AB74FF%22%2F%3E%0A%09%3Cstop%20%20offset%3D%220.62%22%20style%3D%22stop-color%3A%23866AFF%22%2F%3E%0A%09%3Cstop%20%20offset%3D%220.88%22%20style%3D%22stop-color%3A%232A4FFF%22%2F%3E%0A%09%3Cstop%20%20offset%3D%221%22%20style%3D%22stop-color%3A%230645FF%22%2F%3E%0A%3C%2FlinearGradient%3E%0A%3Crect%20x%3D%22773.8%22%20style%3D%22opacity%3A0.2%3Bfill%3Aurl%28%23SVGID_00000124860236446931535290000008328801365185342639_%29%3Benable-background%3Anew%20%20%20%20%3B%22%20width%3D%221022.2%22%20height%3D%22100%22%2F%3E%0A%3Ctext%20transform%3D%22matrix%281%200%200%201%201498.5952%2059.46%29%22%20class%3D%22st8%20st9%20st10%22%3EPipeline%20notebook%3C%2Ftext%3E%0A%3Ctext%20transform%3D%22matrix%281%200%200%201%20101.02%2059.33%29%22%20class%3D%22st8%20st11%20st10%22%3EAutoAI%3C%2Ftext%3E%0A%3Crect%20x%3D%22231.1%22%20y%3D%2234%22%20class%3D%22st12%22%20width%3D%221%22%20height%3D%2232%22%2F%3E%0A%3Ctext%20transform%3D%22matrix%281%200%200%201%20256.29%2059.66%29%22%20class%3D%22st13%20st11%20st10%22%3EPart%20of%20IBM%20Watson%C2%AE%20Studio%3C%2Ftext%3E%0A%3C%2Fsvg%3E)
+
 # Pipeline 8 Notebook - AutoAI Notebook v2.1.7
 
 Consider these tips for working with an auto-generated notebook:
@@ -549,4 +549,126 @@ Licensed Materials - Copyright © 2025 IBM. This notebook and its source code ar
 
 By downloading, copying, accessing, or otherwise using the materials, you agree to the <a href="https://www14.software.ibm.com/cgi-bin/weblap/lap.pl?li_formnum=L-AMCU-BYC7LF">License Terms</a>
 
-___
+
+
+
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<  self built model which is integrated  with the AutoAI pipeline  >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+# Salary Prediction System with XGBoost
+
+## Project Overview
+
+This project focuses on building a machine learning model to predict employee salaries based on a structured dataset of employee records. The model incorporates both categorical and numerical variables and is engineered to process real-world data, accounting for inconsistencies in job titles and departments. The overarching goal is to create a scalable, robust solution for human resources analytics and compensation planning.
+
+---
+
+## Dataset Details
+
+- **Source File:** `employee_records.csv`
+- **Record Count:** 30,000 employee entries
+- **Attributes:** 8 columns including employee identifiers, job details, salaries, and joining dates
+
+This dataset reflects a broad cross-section of industries, job functions, and geographical locations, offering a diverse foundation for training a predictive model that generalizes well across scenarios.
+
+---
+
+## Preprocessing Pipeline
+
+1. **Irrelevant Column Removal**
+
+   - Excluded `Employee_ID` and `Employee_Name` as they offer no predictive value
+   - Removed personal identifiers to prevent overfitting and support data privacy
+
+2. **Experience Feature Engineering**
+
+   - Derived `YearsExperience` from the `Joining_Date` by calculating the number of years from the current date
+   - Applied robust datetime parsing to handle inconsistencies or formatting issues
+
+3. **Categorical Standardization**
+
+   - Consolidated inconsistent entries in `Position` and `Department` using controlled vocabularies
+     - e.g., "Software Engineer", "Engineer" → "Developer"
+     - e.g., "Tech", "IT" → "Engineering"
+   - These mappings reduced data fragmentation and improved model stability
+
+4. **Missing Value Handling**
+
+   - Eliminated records with null or incomplete data in critical fields
+   - Conducted post-cleaning validation to ensure dataset quality and consistency
+
+5. **Feature Encoding and Scaling**
+
+   - Encoded categorical fields (`Country`, `Department`, `Position`) using `LabelEncoder`
+   - Applied `StandardScaler` to numeric variables to support optimal model training
+
+---
+
+## Model Training
+
+- **Algorithm:** `XGBRegressor` (an efficient and scalable gradient boosting algorithm)
+- **Key Hyperparameters:**
+  - `n_estimators`: 200
+  - `learning_rate`: 0.05
+  - `max_depth`: 6
+- **Data Split:** 80% training / 20% validation
+- **Training Strategy:** Designed to capture complex, non-linear patterns and interactions
+
+### Model Performance
+
+- **R² Score:** \~0.82 (indicates high predictive accuracy)
+- **RMSE:** \~₹17,000 (reasonable average error across job types)
+- These metrics confirm that the model is well-calibrated and generalizable
+
+---
+
+## Output Artifacts
+
+- `salary_model_clean.pkl`: The trained and serialized XGBoost regression model
+- `scaler_clean.pkl`: The scaler object for numeric features
+- `label_encoders_clean.pkl`: Serialized encoders for transforming categorical fields
+
+---
+
+## Salary Prediction Pipeline (`jobl_clean.py`)
+
+- Accepts new input with possibly inconsistent category labels
+- Automatically maps raw values (e.g., job titles, departments) to their normalized equivalents
+- Applies consistent encoding and scaling to match the trained model's expectations
+- Predicts salary using the pre-trained XGBoost model
+
+### Example Input
+
+```json
+{
+  "Age": 30,
+  "Country": "India",
+  "Department": "IT",
+  "Position": "Software Engineer",
+  "YearsExperience": 5
+}
+```
+
+### Example Output
+
+```
+Predicted Salary: ₹30,000 - ₹50,000 (depending on input features)
+```
+
+---
+
+## Future Enhancements
+
+- Add support for batch predictions from uploaded CSV files
+- Develop a user-friendly dashboard using Streamlit for real-time HR usage
+- Deploy the model as an API for integration with enterprise HR systems
+- Implement monitoring, versioning, and logging for production-level deployment
+
+---
+
+## Conclusion
+
+This project successfully delivered a robust and scalable salary prediction solution powered by machine learning. The system effectively handles real-world data challenges like inconsistent labels, missing values, and scaling requirements. Its modular design makes it suitable for deployment as a standalone tool or as part of a larger HR analytics platform.
+
